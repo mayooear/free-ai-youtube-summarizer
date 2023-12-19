@@ -1,4 +1,4 @@
-## Free AI Youtube Summarizer run on your computer
+## Free AI Youtube Summarizer on your computer
 Free AI Youtube Summarizer built with opensource LLM (mistral-instruct-v0.2), langchain and llama_index.
 
 Max RAM required: 7 GB
